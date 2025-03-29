@@ -9,11 +9,12 @@ which is use with KingstVIS Virtual Instruments Studio software from Kingst Elec
 # software
 ![software download](/pic/software.png)
 # sdk files
-
+![sdk files](/pic/sdk.png)
 # build with vs
-
+![build](/pic/build.png)
 # install
-
+![how to install](/pic/target.png)
 # use
-
+![add a analyzer](/pic/add.png)
 # usage effect
+![analyzer effect](/pic/effect.png)
